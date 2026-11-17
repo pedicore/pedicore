@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pedicore/pedicore/main/cpp-banner.png" alt="C++ Developer Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/pedicore/pedicore/main/cpp_banner.png" alt="C++ Developer Banner" width="100%">
 </p>
 
 
