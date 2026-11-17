@@ -1,9 +1,19 @@
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/pedicore/pedicore/main/cpp_banner.png" alt="C++ Developer Banner" width="100%">
 </p>
 
+
+### 💻 About Me in C++ 📘
+
+```cpp
+#include <string>
+
+struct Developer {
+    std::string name = "Pedram";
+    std::string focus = "C++/Python Development";
+    std::string mindset = "Always Learning";
+};
+```
 
 
 ### 👋 A Little About Me
@@ -19,7 +29,7 @@ I'm an aspiring software developer/Game Developer focused on building desktop ap
 I have a background in IT support and troubleshooting, and I'm currently expanding my skills in software development.
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedicore&layout=compact&theme=tokyonight)
+
 
 
 ### 🛠 Tech Stack
@@ -30,12 +40,25 @@ I have a background in IT support and troubleshooting, and I'm currently expandi
 - **Currently Exploring:** SQLite, Desktop Application Architecture , Unreal Engine , Game Developing
 
 ### 🛠 Projects
+
+### 🚀 Featured Projects
+
+#### [GX](https://github.com/pedicore/GX)
+Desktop application built with C++17, Qt 6 and WebView2.
+**Status:** In Development
+
+#### [MiniEngine](https://github.com/pedicore/MiniEngine)
+2D arcade game developed using C++17 and SDL2.
+**Features:** Sprite animation, collision detection and enemy spawning.
+
 - You can check my Repositories for more information .
 
 
-### 📊 GitHub Stats
+### 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedicore&show_icons=true&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedicore&theme=tokyonight)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedicore&theme=tokyonight)
 
 
 ### 🎯 Current Goals
@@ -46,11 +69,11 @@ I have a background in IT support and troubleshooting, and I'm currently expandi
 
 ### 📫 Connect
 - Feel free to connect with me on: [LinkedIn](https://www.linkedin.com/in/pedram-ramin/)
-- 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+
 
 - You can also contact me via E-Mail :pedramramin4@gmail.com
 - Or with the social accounts I added to my profile
 
+### 💡 My Philosophy
+
+I believe great software starts with curiosity, grows through experimentation, and improves with every challenge. I enjoy understanding how things work, not just making them work.
