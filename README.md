@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="./cpp-banner.png" alt="C++ Developer Banner" width="100%">
+</p>
+
+
 ### 👋 A Little About Me
 
 Hi, I'm Pedram! I'm a curious, motivated person who enjoys learning new things, solving problems, and challenging myself. I believe in continuous growth, creativity, and turning ideas into reality. I enjoy exploring technology, but above all, I value perseverance, curiosity, and meaningful progress.
