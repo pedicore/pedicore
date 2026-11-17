@@ -10,7 +10,7 @@
 
 Hi, I'm Pedram! I'm a curious, motivated person who enjoys learning new things, solving problems, and challenging myself. I believe in continuous growth, creativity, and turning ideas into reality. I enjoy exploring technology, but above all, I value perseverance, curiosity, and meaningful progress.
 
-# Hi, I'm Pedram 👋
+# More About ME
 
 ### Aspiring C++ Developer | Desktop Applications
 
